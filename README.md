@@ -1,11 +1,11 @@
 <h1 align="center" style="margin-top: 0;">UNIFEMM-TECH</h1>
 <img align="center" alt="benccalcyxzfi-msqlserver" src="https://komarev.com/ghpvc/?username=UNIFEMM-TECH&style=flat-square">
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div align="left">
   <a href="https://github.com/UNIFEMM-TECH">
-    <img width="400em" height="400em" src="https://github-readme-stats.vercel.app/api?username=UNIFEMM-TECH&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="margin-right: 0;">
-  </a>
-  <img width="400em" height="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=UNIFEMM-TECH&theme=dark" style="margin-left: 0;">
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas0395&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="Rafa-pic" height="275" style="border-radius:50px;" src="https://c.tenor.com/xByAp-gdK6MAAAAC/lawliet.gif">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UNIFEMM-TECH&theme=dark">
+    <div align="left">
 
 
 
