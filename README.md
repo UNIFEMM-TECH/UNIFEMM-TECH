@@ -1,11 +1,12 @@
 <h1 align="center">UNIFEMM-TECH</h1>
 <img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=UNIFEMM-TECH&style=flat-square">
-<div align="left">
+<div style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://github.com/UNIFEMM-TECH">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UNIFEMM-TECH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<div align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UNIFEMM-TECH&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="margin-right: 20px;">
+  </a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UNIFEMM-TECH&theme=dark">
-  </div>
+</div>
+
   <h2>🏆 GitHub Troféus</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=UNIFEMM-TECH&theme=nord&column=7" >
     </div>
