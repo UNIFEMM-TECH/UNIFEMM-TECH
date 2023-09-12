@@ -3,8 +3,7 @@
 <div align="left">
   <a href="https://github.com/UNIFEMM-TECH">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=UNIFEMM-TECH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="Rafa-pic" height="275" style="border-radius:50px;" src="https://c.tenor.com/xByAp-gdK6MAAAAC/lawliet.gif">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UNIFEMM-TECH&theme=dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UNIFEMM-TECH&theme=dark">
     <div align="left">
 
 
