@@ -23,4 +23,4 @@
 
     
   ***
-![Snake animation](https://github.com/UNIFEMM-TECH/UNIFEMM-TECH/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/UNIFEMM-TECH/UNIFEMM-TECH/blob/output/github-contribution-grid-snake.svg)
